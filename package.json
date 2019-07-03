@@ -1,0 +1,19 @@
+{
+  "name": "falls-demo-app",
+  "version": "1.0.0",
+  "description": "falls app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadam1807/graphql-React-native.git"
+  },
+  "author": "sadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadam1807/graphql-React-native/issues"
+  },
+  "homepage": "https://github.com/sadam1807/graphql-React-native#readme"
+}
